@@ -1,0 +1,8 @@
+C:\Users\Ahmet\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Ahmet\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Ahmet\Desktop\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Ahmet\Desktop\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\Deneme\Deneme\obj\Debug\Deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\Desktop\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Ahmet\Desktop\Deneme\Deneme\obj\Debug\Deneme.pdb
